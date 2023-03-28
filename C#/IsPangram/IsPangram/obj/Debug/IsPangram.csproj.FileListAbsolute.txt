@@ -1,0 +1,8 @@
+C:\Users\yvesg\git\codewarrior\C#\IsPangram\IsPangram\bin\Debug\IsPangram.exe.config
+C:\Users\yvesg\git\codewarrior\C#\IsPangram\IsPangram\bin\Debug\IsPangram.exe
+C:\Users\yvesg\git\codewarrior\C#\IsPangram\IsPangram\bin\Debug\IsPangram.pdb
+C:\Users\yvesg\git\codewarrior\C#\IsPangram\IsPangram\obj\Debug\IsPangram.csproj.AssemblyReference.cache
+C:\Users\yvesg\git\codewarrior\C#\IsPangram\IsPangram\obj\Debug\IsPangram.csproj.SuggestedBindingRedirects.cache
+C:\Users\yvesg\git\codewarrior\C#\IsPangram\IsPangram\obj\Debug\IsPangram.csproj.CoreCompileInputs.cache
+C:\Users\yvesg\git\codewarrior\C#\IsPangram\IsPangram\obj\Debug\IsPangram.exe
+C:\Users\yvesg\git\codewarrior\C#\IsPangram\IsPangram\obj\Debug\IsPangram.pdb

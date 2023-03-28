@@ -1,5 +1,5 @@
 function step($g, $m, $n) {
-  $primes = @()
+  [System.Collections.ArrayList]$primes = @()
   $pair = @()
   $Numbers = $m..$n
   foreach ($Number in $Numbers) {
@@ -20,16 +20,22 @@ function step($g, $m, $n) {
     if ($Prime) {
       $Primes += $Number 
       if ($Primes.contains($Number - $g)) {
+        $i1 = $Primes.IndexOf($Number)
+        $i2 = $Primes.IndexOf($number - $g) + 1
+        if ($i1 -eq $i2) {
         $pair += @(($Number - $g), $Number)
         break
+        }
       }  # your code
     }
   }
-  if ($pair -ne "") {
-    "($($pair[0]) $($pair[1])))"
+  if ($pair.Length -gt 0) {
+    @($pair[0], $pair[1])
   }
   else {
-    ""
+    @()
   }
 }
-step 11 30000 30100
+step 2 100 110 
+step 4 100 110 
+step 6 100 110 

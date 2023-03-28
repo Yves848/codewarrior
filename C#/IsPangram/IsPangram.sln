@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPangram", "IsPangram\IsPangram.csproj", "{DD2DEFCF-2045-49DF-91A4-C12C8E74EC44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2DEFCF-2045-49DF-91A4-C12C8E74EC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2DEFCF-2045-49DF-91A4-C12C8E74EC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2DEFCF-2045-49DF-91A4-C12C8E74EC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2DEFCF-2045-49DF-91A4-C12C8E74EC44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA53ACD-FF56-4665-83E8-74765FCBCC63}
+	EndGlobalSection
+EndGlobal
